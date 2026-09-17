@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#eef3f0"/>
+  <rect x="36" y="36" width="728" height="928" fill="#fff" stroke="#14241c" stroke-width="4"/>
+  <text x="400" y="100" text-anchor="middle" font-size="28" font-family="Segoe UI, Arial">WARD PUBLIC SERVICE DESK</text>
+  <text x="400" y="140" text-anchor="middle" font-size="20" font-family="Segoe UI, Arial">Khulna City Corporation (Sample)</text>
+  <text x="70" y="220" font-size="22" font-family="Segoe UI, Arial">Certified copies of birth certificates</text>
+  <text x="70" y="280" font-size="18" font-family="Segoe UI, Arial">Apply 1 October 2026 to 31 October 2026.</text>
+  <text x="70" y="330" font-size="18" font-family="Segoe UI, Arial">Ward 12 residents. Service charge BDT 50.</text>
+  <text x="70" y="380" font-size="18" font-family="Segoe UI, Arial">Ready within 14 working days.</text>
+  <text x="70" y="460" font-size="16" fill="#3f5349" font-family="Segoe UI, Arial">Fictional sample for AccessBD demonstration.</text>
+</svg>

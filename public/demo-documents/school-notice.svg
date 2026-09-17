@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100" viewBox="0 0 800 1100">
+  <rect width="800" height="1100" fill="#f7f4ee"/>
+  <rect x="40" y="40" width="720" height="1020" fill="#fff" stroke="#0b6b4f" stroke-width="6"/>
+  <rect x="40" y="40" width="720" height="90" fill="#0b6b4f"/>
+  <text x="400" y="95" text-anchor="middle" fill="#fff" font-size="32" font-family="Segoe UI, Arial">GREENFIELD MODEL SCHOOL</text>
+  <text x="400" y="170" text-anchor="middle" fill="#14241c" font-size="22" font-family="Segoe UI, Arial">Dhaka, Bangladesh  NOTICE</text>
+  <text x="80" y="230" fill="#14241c" font-size="26" font-family="Segoe UI, Arial">Admission to Class VI  2027</text>
+  <text x="80" y="290" fill="#14241c" font-size="22" font-family="Segoe UI, Arial">Applications must be submitted before</text>
+  <text x="80" y="330" fill="#b4232c" font-size="28" font-family="Segoe UI, Arial">30 September 2026</text>
+  <text x="80" y="400" fill="#14241c" font-size="20" font-family="Segoe UI, Arial">Who can apply: children who completed Class V in 2026.</text>
+  <text x="80" y="460" fill="#14241c" font-size="20" font-family="Segoe UI, Arial">Required: birth certificate, two photos, progress report.</text>
+  <text x="80" y="520" fill="#14241c" font-size="20" font-family="Segoe UI, Arial">Fee: BDT 200. Office: 9:00 AM1:00 PM, SunThu.</text>
+  <text x="80" y="600" fill="#3f5349" font-size="16" font-family="Segoe UI, Arial">Fictional sample for AccessBD. Not a real school notice.</text>
+</svg>

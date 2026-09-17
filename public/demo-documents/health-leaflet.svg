@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#e8f4ee"/>
+  <rect x="40" y="40" width="720" height="920" fill="#fff" stroke="#0b6b4f" stroke-width="4"/>
+  <text x="400" y="110" text-anchor="middle" font-size="26" font-family="Segoe UI, Arial">COMMUNITY HEALTH INFORMATION</text>
+  <text x="400" y="150" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial">Sylhet District Health Outreach (Sample)</text>
+  <text x="70" y="230" font-size="22" font-family="Segoe UI, Arial">Stay well in hot weather</text>
+  <text x="70" y="290" font-size="18" font-family="Segoe UI, Arial">Drink safe water several times a day.</text>
+  <text x="70" y="340" font-size="18" font-family="Segoe UI, Arial">For diarrhoea, mix ORS as written on the packet.</text>
+  <text x="70" y="410" font-size="18" font-family="Segoe UI, Arial">Go to a health centre the same day if there is</text>
+  <text x="70" y="450" font-size="18" font-family="Segoe UI, Arial">blood in stool, repeated vomiting, or unusual sleepiness.</text>
+  <text x="70" y="530" font-size="16" fill="#3f5349" font-family="Segoe UI, Arial">Fictional sample. Not medical advice.</text>
+</svg>

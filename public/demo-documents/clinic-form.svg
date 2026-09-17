@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f7f4ee"/>
+  <rect x="40" y="40" width="720" height="920" fill="#fff" stroke="#0b6b4f" stroke-width="4"/>
+  <text x="400" y="100" text-anchor="middle" font-size="26" font-family="Segoe UI, Arial">RIVERSIDE COMMUNITY CLINIC</text>
+  <text x="400" y="140" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial">Chattogram  New Patient Registration (Sample)</text>
+  <rect x="80" y="200" width="640" height="70" fill="none" stroke="#14241c"/>
+  <text x="90" y="245" font-size="18" font-family="Segoe UI, Arial">Full Name</text>
+  <rect x="80" y="290" width="640" height="70" fill="none" stroke="#14241c"/>
+  <text x="90" y="335" font-size="18" font-family="Segoe UI, Arial">Date of Birth</text>
+  <rect x="80" y="380" width="640" height="70" fill="none" stroke="#14241c"/>
+  <text x="90" y="425" font-size="18" font-family="Segoe UI, Arial">Address</text>
+  <rect x="80" y="470" width="640" height="70" fill="none" stroke="#14241c"/>
+  <text x="90" y="515" font-size="18" font-family="Segoe UI, Arial">Phone Number</text>
+  <rect x="80" y="560" width="640" height="90" fill="none" stroke="#14241c"/>
+  <text x="90" y="615" font-size="18" font-family="Segoe UI, Arial">Signature</text>
+  <text x="80" y="720" font-size="16" fill="#3f5349" font-family="Segoe UI, Arial">AccessBD never fills or submits personal information.</text>
+</svg>
